@@ -38,5 +38,5 @@ Oppo Release Dates
 # Support
 Reach out to us at one of the following places!
 - Website at [OnTechEdge](https://ontechedge.com/?utm_source=github)
-- Twitter at [@InnovationJam](https://twitter.com/ontechedge)
+- Twitter at [@OnTechEdge](https://twitter.com/ontechedge)
 - Reddit at [OnTechEdge](https://www.reddit.com/r/OnTechEdge/)
