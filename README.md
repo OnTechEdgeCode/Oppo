@@ -47,6 +47,49 @@ Oppo Release Dates
 | Oppo N               | September 2013|
 | Oppo N3              |          2016 |
 
+# Oppo R Series Release Dates
+
+| Oppo R    Series     | Date          |
+| -------------------- | ------------- | 
+| Oppo R1S             | April 2014    |
+| Oppo R3              | June 2014     |
+| Oppo R5	             | December 2014 |
+| Oppo R7	             | May 2015      |
+| Oppo R7 Plus	       | May 2015      |
+| Oppo R7s	           | October 2015  |
+| Oppo R9	             | March 2019    |
+| Oppo R9 Plus	       | March 2019    |
+| Oppo R9s	           | October 2016  |
+| Oppo R9s Plus	       | October 2016  |
+| Oppo R11	           | June 2017     |
+| Oppo R11 Plus	       | June 2017     |
+| Oppo R11s	           | November 2017 |
+| Oppo R11s Plus	     | November 2017 |
+| Oppo R15	           | April 2018    |
+| Oppo R15 Pro	       | April 2018    |
+| Oppo R15x	           | October 2018  |
+| Oppo R17	           | Augustus 2018 |
+| Oppo R17 Pro	       | Augustus 2018 |
+
+# Oppo K Series	
+
+| Oppo K Series     | Date          |
+| ----------------- | ------------- | 
+| Oppo K1           | October 2018  |
+| Oppo K3	          | May 2019      |
+| Oppo K5	          | Not Released  |
+
+# Oppo Reno Series
+
+| Oppo Reno Series  | Date          |
+| ----------------- | ------------- | 
+| Oppo Reno         | May 2019      |
+| Oppo Reno 2	      | Not Released  |
+| Oppo Reno Ace	    | October 2019  |
+| Oppo Reno 3	      | Not Released  |
+| Oppo Reno 3 Pro	  | Not Released  |
+
+
 
 # Authors
 - Ben Kemp - Initial Work - [OnTechEdge](https://ontechedge.com/?utm_source=github)
@@ -56,3 +99,6 @@ Reach out to us at one of the following places!
 - Website at [OnTechEdge](https://ontechedge.com/?utm_source=github)
 - Twitter at [@OnTechEdge](https://twitter.com/ontechedge)
 - Reddit at [OnTechEdge](https://www.reddit.com/r/OnTechEdge/)
+
+# Updates
+Latest update 5 January 2020
