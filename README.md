@@ -32,6 +32,22 @@ Oppo Release Dates
 | Oppo A5 2020         | September 2019|
 | Oppo A9 2020         | Unknown       |
 
+# Oppo Find Series Release Dates
+
+| Oppo Find Series     | Date          |
+| -------------------- | ------------- | 
+| Oppo Find 5          | February 2013 |
+| Oppo Find 7          | February 2014 |
+| Oppo Find X          | February 2018 |
+
+# Oppo N Series Release Dates
+
+| Oppo N    Series     | Date          |
+| -------------------- | ------------- | 
+| Oppo N               | September 2013|
+| Oppo N3              |          2016 |
+
+
 # Authors
 - Ben Kemp - Initial Work - [OnTechEdge](https://ontechedge.com/?utm_source=github)
 
