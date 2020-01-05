@@ -32,3 +32,11 @@ Oppo Release Dates
 | Oppo A5 2020         | September 2019|
 | Oppo A9 2020         | Unknown       |
 
+# Authors
+- Ben Kemp - Initial Work - [OnTechEdge](https://ontechedge.com/?utm_source=github)
+
+# Support
+Reach out to us at one of the following places!
+- Website at [OnTechEdge](https://ontechedge.com/?utm_source=github)
+- Twitter at [@InnovationJam](https://twitter.com/innovationjam)
+- Reddit at [OnTechEdge](https://www.reddit.com/r/OnTechEdge/)
